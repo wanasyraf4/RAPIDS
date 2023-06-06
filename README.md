@@ -6,7 +6,7 @@
 - On WSL2
 - On ubuntu server
 
-![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/c2db5d28-bec7-4308-86b0-848ef8caa0e3)
+![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/a9b5daaf-47b9-408c-af9f-c74310ffedf8)
 
 ## Install on WSL2
 
