@@ -1,9 +1,14 @@
-# RAPIDS
-Data science pipeline on GPU
+![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/d2325586-e982-4950-96f4-b5c06c59cd69)
 
-## Prerequisite RAPIDS setup
 
-### Install on WSL2
+# Prerequisite RAPIDS setup
+
+- On WSL2
+- On ubuntu server
+
+![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/c2db5d28-bec7-4308-86b0-848ef8caa0e3)
+
+## Install on WSL2
 
 ======== Notes =======
 
@@ -12,6 +17,7 @@ A. make sure WSL2 with:
 
 B. Make sure GPU compute capability 6+, check here:
 > https://developer.nvidia.com/cuda-gpus
+
 ======================
 
 
@@ -52,7 +58,10 @@ add on bottom depending on cuda compiler installed
 On CMD not ubuntu terminal:
 > wsl --shutdown
 
-### Install on ubuntu server (AWS EC2, AWS AMI Google Cloud, proxmox, etc etc)
+
+![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/711f1546-7ca1-49d6-a203-3148092823b9)
+
+## Install on ubuntu server (AWS EC2, AWS AMI Google Cloud, proxmox, etc etc)
 1. **update env**
 > sudo apt update and sudo apt upgrade -y
 
@@ -76,7 +85,7 @@ add on bottom depending on cuda compiler installed
 
 > export LD_LIBRARY_PATH=/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH
 
-4. ** update and restart server **
+4. **update and restart server**
 > sudo apt update 
 
 > sudo reboot
