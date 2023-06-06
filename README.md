@@ -85,6 +85,12 @@ add on bottom depending on cuda compiler installed
 
 > export LD_LIBRARY_PATH=/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH
 
+after save, run bash
+> source ~/.bashrc
+
+check path
+> echo $PATH
+
 4. **update and restart server**
 > sudo apt update 
 
