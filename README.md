@@ -8,7 +8,7 @@
 
 ![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/a9b5daaf-47b9-408c-af9f-c74310ffedf8)
 
-## Install on WSL2
+## Step 2: Install on WSL2
 
 ======== Notes =======
 
