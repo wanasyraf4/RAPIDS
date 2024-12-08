@@ -1,7 +1,7 @@
 ![image](https://github.com/wanasyraf4/RAPIDS/assets/107595740/d2325586-e982-4950-96f4-b5c06c59cd69)
 
 
-# Prerequisite RAPIDS setup
+# Step 0: Prerequisite RAPIDS setup
 
 - On WSL2
 - On ubuntu server
